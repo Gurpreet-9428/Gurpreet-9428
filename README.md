@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Graphics designing and web designing 
 - 🌱 I’m currently learning ...web designing 
 - 💞️ I’m looking to collaborate on ...some projects for get a stronghold on my work !
-- 📫 How to reach me ...at the Top ! W
+- 📫 How to reach me ...Linkedin www.linkedin.com/in/gurpreet-thapar-1072a0147
 
 <!---
 Gurpreet-9428/Gurpreet-9428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
