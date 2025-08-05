@@ -8,3 +8,15 @@
 Gurpreet-9428/Gurpreet-9428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Liquor Store Inventory System
+
+This repository contains a C++ console application to manage a liquor store's inventory. Items are organized into classes for different liquor categories such as beer, wine, and spirits. The menu also includes a dynamic option to add new custom varieties at runtime.
+
+### Build and Run
+
+```
+g++ -std=c++17 src/main.cpp -o inventory
+./inventory
+```
+
